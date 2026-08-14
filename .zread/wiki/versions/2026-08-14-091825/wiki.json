@@ -1,0 +1,213 @@
+{
+  "id": "2026-08-14-091825",
+  "generated_at": "2026-08-14T01:18:25.0774125Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu",
+      "title": "项目概述",
+      "file": "1-xiang-mu-gai-shu.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-shang-shou-yu-yun-xing",
+      "title": "快速上手与运行",
+      "file": "2-kuai-su-shang-shou-yu-yun-xing.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-web-jie-mian-shi-yong-zhi-nan",
+      "title": "Web 界面使用指南",
+      "file": "3-web-jie-mian-shi-yong-zhi-nan.md",
+      "section": "入门指南",
+      "group": "产品使用",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-ming-ling-xing-qi-dong-qi-dsh-cli",
+      "title": "命令行启动器（dsh CLI）",
+      "file": "4-ming-ling-xing-qi-dong-qi-dsh-cli.md",
+      "section": "入门指南",
+      "group": "产品使用",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-python-sdk-kuai-su-ru-men",
+      "title": "Python SDK 快速入门",
+      "file": "5-python-sdk-kuai-su-ru-men.md",
+      "section": "入门指南",
+      "group": "产品使用",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-bian-xie-di-ge-cha-jian",
+      "title": "编写第一个插件",
+      "file": "6-bian-xie-di-ge-cha-jian.md",
+      "section": "入门指南",
+      "group": "Cordis 实战教程",
+      "level": "Beginner"
+    },
+    {
+      "slug": "7-sheng-ming-zhou-qi-fu-zuo-yong-yu-ke-ni-zhu-ce",
+      "title": "生命周期、副作用与可逆注册",
+      "file": "7-sheng-ming-zhou-qi-fu-zuo-yong-yu-ke-ni-zhu-ce.md",
+      "section": "入门指南",
+      "group": "Cordis 实战教程",
+      "level": "Beginner"
+    },
+    {
+      "slug": "8-fu-wu-sheng-ming-yu-yi-lai-zhu-ru",
+      "title": "服务声明与依赖注入",
+      "file": "8-fu-wu-sheng-ming-yu-yi-lai-zhu-ru.md",
+      "section": "入门指南",
+      "group": "Cordis 实战教程",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-lei-xing-hua-shi-jian-yu-fen-fa-mo-shi",
+      "title": "类型化事件与分发模式",
+      "file": "9-lei-xing-hua-shi-jian-yu-fen-fa-mo-shi.md",
+      "section": "入门指南",
+      "group": "Cordis 实战教程",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-zheng-ti-jia-gou-yu-cha-jian-shu-she-ji",
+      "title": "整体架构与插件树设计",
+      "file": "10-zheng-ti-jia-gou-yu-cha-jian-shu-she-ji.md",
+      "section": "深入理解",
+      "group": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-profile-yu-bundle-fen-ceng-zu-he-ji-zhi",
+      "title": "Profile 与 Bundle 分层组合机制",
+      "file": "11-profile-yu-bundle-fen-ceng-zu-he-ji-zhi.md",
+      "section": "深入理解",
+      "group": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-agent-xun-huan-turn-yu-step-sheng-ming-zhou-qi",
+      "title": "Agent 循环：Turn 与 Step 生命周期",
+      "file": "12-agent-xun-huan-turn-yu-step-sheng-ming-zhou-qi.md",
+      "section": "深入理解",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-hui-hua-ri-zhi-shi-jian-su-yuan-yu-chi-jiu-hua",
+      "title": "会话日志：事件溯源与持久化",
+      "file": "13-hui-hua-ri-zhi-shi-jian-su-yuan-yu-chi-jiu-hua.md",
+      "section": "深入理解",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-gong-ju-zhi-xing-guan-xian",
+      "title": "工具执行管线",
+      "file": "14-gong-ju-zhi-xing-guan-xian.md",
+      "section": "深入理解",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-neng-li-jie-feng-capability-seams-yuan-li",
+      "title": "能力接缝（Capability Seams）原理",
+      "file": "15-neng-li-jie-feng-capability-seams-yuan-li.md",
+      "section": "深入理解",
+      "group": "可替换能力体系",
+      "level": "Advanced"
+    },
+    {
+      "slug": "16-wen-jian-xi-tong-yu-hui-hua-sha-xiang",
+      "title": "文件系统与会话沙箱",
+      "file": "16-wen-jian-xi-tong-yu-hui-hua-sha-xiang.md",
+      "section": "深入理解",
+      "group": "可替换能力体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-zi-dai-li-wei-tuo-ji-zhi",
+      "title": "子代理委托机制",
+      "file": "17-zi-dai-li-wei-tuo-ji-zhi.md",
+      "section": "深入理解",
+      "group": "可替换能力体系",
+      "level": "Advanced"
+    },
+    {
+      "slug": "18-llm-liu-shi-xie-yi-yu-gua-pei-qi",
+      "title": "LLM 流式协议与适配器",
+      "file": "18-llm-liu-shi-xie-yi-yu-gua-pei-qi.md",
+      "section": "深入理解",
+      "group": "可替换能力体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-shell-zi-jin-cheng-yu-zhong-duan",
+      "title": "Shell、子进程与终端",
+      "file": "19-shell-zi-jin-cheng-yu-zhong-duan.md",
+      "section": "深入理解",
+      "group": "可替换能力体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-cordis-he-xin-gai-nian-su-lan",
+      "title": "Cordis 核心概念速览",
+      "file": "20-cordis-he-xin-gai-nian-su-lan.md",
+      "section": "深入理解",
+      "group": "扩展开发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-kuo-zhan-kai-fa-shi-zhan-shou-ce",
+      "title": "扩展开发实战手册",
+      "file": "21-kuo-zhan-kai-fa-shi-zhan-shou-ce.md",
+      "section": "深入理解",
+      "group": "扩展开发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-typert-api-wang-guan-yu-host-client-tong-xin",
+      "title": "Typert API 网关与 Host-Client 通信",
+      "file": "22-typert-api-wang-guan-yu-host-client-tong-xin.md",
+      "section": "深入理解",
+      "group": "扩展开发",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-gong-ju-schema-yu-pei-zhi-mu-lu-can-kao",
+      "title": "工具 Schema 与配置目录参考",
+      "file": "23-gong-ju-schema-yu-pei-zhi-mu-lu-can-kao.md",
+      "section": "深入理解",
+      "group": "扩展开发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-ce-shi-ce-lue-yu-fen-ceng-ti-xi",
+      "title": "测试策略与分层体系",
+      "file": "24-ce-shi-ce-lue-yu-fen-ceng-ti-xi.md",
+      "section": "深入理解",
+      "group": "工程实践",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-fang-yu-xing-bian-cheng-mo-shi",
+      "title": "防御性编程模式",
+      "file": "25-fang-yu-xing-bian-cheng-mo-shi.md",
+      "section": "深入理解",
+      "group": "工程实践",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-zhu-yu-biao",
+      "title": "术语表",
+      "file": "26-zhu-yu-biao.md",
+      "section": "深入理解",
+      "group": "工程实践",
+      "level": "Beginner"
+    }
+  ]
+}
