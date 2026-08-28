@@ -1,0 +1,243 @@
+{
+  "id": "2026-08-27-193335",
+  "generated_at": "2026-08-27T11:33:35.8270839Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-lan-deepseek-harness-shi-shi-yao-yu-wei-shi-yao-zhi-de-xue-xi",
+      "title": "项目概览：DeepSeek Harness 是什么与为什么值得学习",
+      "file": "1-xiang-mu-gai-lan-deepseek-harness-shi-shi-yao-yu-wei-shi-yao-zhi-de-xue-xi.md",
+      "section": "快速上手",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-kai-shi-tong-guo-npm-xing-ming-ling-huo-yuan-ma-bian-yi-yun-xing-dsh",
+      "title": "快速开始：通过 npm 一行命令或源码编译运行 dsh",
+      "file": "2-kuai-su-kai-shi-tong-guo-npm-xing-ming-ling-huo-yuan-ma-bian-yi-yun-xing-dsh.md",
+      "section": "快速上手",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-kai-fa-huan-jing-da-jian-node-pnpm-qian-zhi-tiao-jian-an-zhuang-gou-zi-yu-shou-ci-lei-xing-jian-cha",
+      "title": "开发环境搭建：Node/pnpm 前置条件、安装钩子与首次类型检查",
+      "file": "3-kai-fa-huan-jing-da-jian-node-pnpm-qian-zhi-tiao-jian-an-zhuang-gou-zi-yu-shou-ci-lei-xing-jian-cha.md",
+      "section": "快速上手",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "4-cli-ru-men-dsh-ming-ling-ru-kou-web-headless-profile-yu-bu-ding-fu-gai",
+      "title": "CLI 入门：dsh 命令入口、web/headless Profile 与补丁覆盖",
+      "file": "4-cli-ru-men-dsh-ming-ling-ru-kou-web-headless-profile-yu-bu-ding-fu-gai.md",
+      "section": "快速上手",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-cordis-wu-da-he-xin-gai-nian-cha-jian-shang-xia-wen-fu-wu-inject-yi-lai-sheng-ming-lei-xing-hua-shi-jian-yu-ke-ni-fu-zuo-yong",
+      "title": "Cordis 五大核心概念：插件、上下文服务、inject 依赖声明、类型化事件与可逆副作用",
+      "file": "5-cordis-wu-da-he-xin-gai-nian-cha-jian-shang-xia-wen-fu-wu-inject-yi-lai-sheng-ming-lei-xing-hua-shi-jian-yu-ke-ni-fu-zuo-yong.md",
+      "section": "深入解析",
+      "group": "Cordis 插件框架",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-shi-jian-fen-fa-si-mo-shi-yu-waterfall-huan-rao-zhong-jian-jian-yu-yi",
+      "title": "事件分发四模式与 Waterfall 环绕中间件语义",
+      "file": "6-shi-jian-fen-fa-si-mo-shi-yu-waterfall-huan-rao-zhong-jian-jian-yu-yi.md",
+      "section": "深入解析",
+      "group": "Cordis 插件框架",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-cordis-fen-bu-jiao-cheng-cong-di-ge-cha-jian-dao-jin-ru-harness-nei-bu",
+      "title": "Cordis 分步教程：从第一个插件到进入 Harness 内部",
+      "file": "7-cordis-fen-bu-jiao-cheng-cong-di-ge-cha-jian-dao-jin-ru-harness-nei-bu.md",
+      "section": "深入解析",
+      "group": "Cordis 插件框架",
+      "level": "Beginner"
+    },
+    {
+      "slug": "8-jia-gou-zong-lan-qie-jie-cha-jian-de-cha-jian-shu-shi-jie",
+      "title": "架构总览：一切皆插件的插件树世界",
+      "file": "8-jia-gou-zong-lan-qie-jie-cha-jian-de-cha-jian-shu-shi-jie.md",
+      "section": "深入解析",
+      "group": "架构与运行时模型",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-profile-zu-he-bao-yu-duo-ceng-patch-de-an-xu-die-jia-ji-zhi",
+      "title": "Profile、组合包与多层 Patch 的按序叠加机制",
+      "file": "9-profile-zu-he-bao-yu-duo-ceng-patch-de-an-xu-die-jia-ji-zhi.md",
+      "section": "深入解析",
+      "group": "架构与运行时模型",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-he-xin-bao-di-tu-bao-fen-zu-zhi-ze-yu-ctx-fu-wu-jian-dao-lan",
+      "title": "核心包地图：包分组职责与 ctx 服务键导览",
+      "file": "10-he-xin-bao-di-tu-bao-fen-zu-zhi-ze-yu-ctx-fu-wu-jian-dao-lan.md",
+      "section": "深入解析",
+      "group": "架构与运行时模型",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-lun-ci-liu-cheng-pou-xi-turn-step-shi-jian-liu-yu-agent-sheng-ming-zhou-qi-kuo-zhan-dian",
+      "title": "轮次流程剖析：turn/step 事件流与 Agent 生命周期扩展点",
+      "file": "11-lun-ci-liu-cheng-pou-xi-turn-step-shi-jian-liu-yu-agent-sheng-ming-zhou-qi-kuo-zhan-dian.md",
+      "section": "深入解析",
+      "group": "架构与运行时模型",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-hui-hua-ri-zhi-mo-xing-mo-xing-ke-jian-ji-yi-ji-lu-de-bu-bian-liang-yu-xiao-xi-tou-ying",
+      "title": "会话日志模型：“模型可见即已记录”的不变量与消息投影",
+      "file": "12-hui-hua-ri-zhi-mo-xing-mo-xing-ke-jian-ji-yi-ji-lu-de-bu-bian-liang-yu-xiao-xi-tou-ying.md",
+      "section": "深入解析",
+      "group": "架构与运行时模型",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-neng-li-jie-feng-she-ji-mo-shi-fs-lsp-web-skill-yu-mcp-mo-xing-ke-jian-neng-li-zu",
+      "title": "能力接缝设计模式：fs、LSP、Web、Skill 与 MCP 模型可见能力族",
+      "file": "13-neng-li-jie-feng-she-ji-mo-shi-fs-lsp-web-skill-yu-mcp-mo-xing-ke-jian-neng-li-zu.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-gong-ju-zhu-ce-biao-waterfall-ba-guan-shi-jian-yu-zhi-xing-liu-shui-xian",
+      "title": "工具注册表、waterfall 把关事件与执行流水线",
+      "file": "14-gong-ju-zhu-ce-biao-waterfall-ba-guan-shi-jian-yu-zhi-xing-liu-shui-xian.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-llm-liu-shi-ci-hui-biao-yu-duo-ti-gong-fang-gua-pei-qi-jie-ru",
+      "title": "LLM 流式词汇表与多提供方适配器接入",
+      "file": "15-llm-liu-shi-ci-hui-biao-yu-duo-ti-gong-fang-gua-pei-qi-jie-ru.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-jin-cheng-zhi-xing-neng-li-zu-zi-jin-cheng-shell-chi-jiu-zhong-duan-pty-yu-dai-ma-yun-xing-shi",
+      "title": "进程执行能力族：子进程、Shell、持久终端 PTY 与代码运行时",
+      "file": "16-jin-cheng-zhi-xing-neng-li-zu-zi-jin-cheng-shell-chi-jiu-zhong-duan-pty-yu-dai-ma-yun-xing-shi.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-sha-xiang-ce-lue-hou-duan-bwrap-landlock-seatbelt-yu-landlock-yuan-sheng-xian-zhi-qi-dong-qi",
+      "title": "沙箱策略后端（bwrap/Landlock/Seatbelt）与 Landlock 原生限制启动器",
+      "file": "17-sha-xiang-ce-lue-hou-duan-bwrap-landlock-seatbelt-yu-landlock-yuan-sheng-xian-zhi-qi-dong-qi.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Advanced"
+    },
+    {
+      "slug": "18-subagent-wei-tuo-duo-ti-gong-fang-zhu-ce-yu-shi-yan-xing-agent-tuan-dui",
+      "title": "Subagent 委托、多提供方注册与实验性 Agent 团队",
+      "file": "18-subagent-wei-tuo-duo-ti-gong-fang-zhu-ce-yu-shi-yan-xing-agent-tuan-dui.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-hui-hua-chi-jiu-hua-shu-ju-ping-mian-jsonl-sqlite-hou-duan-tou-ying-huan-cun-yu-quan-wen-jian-suo",
+      "title": "会话持久化数据平面：JSONL/SQLite 后端、投影缓存与全文检索",
+      "file": "19-hui-hua-chi-jiu-hua-shu-ju-ping-mian-jsonl-sqlite-hou-duan-tou-ying-huan-cun-yu-quan-wen-jian-suo.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-shang-xia-wen-gong-cheng-ya-suo-jie-guo-yi-chu-ce-lue-token-ji-liang-yu-ti-shi-ci-pian-duan-zu-zhuang",
+      "title": "上下文工程：压缩、结果溢出策略、Token 计量与提示词片段组装",
+      "file": "20-shang-xia-wen-gong-cheng-ya-suo-jie-guo-yi-chu-ce-lue-token-ji-liang-yu-ti-shi-ci-pian-duan-zu-zhuang.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-ren-ji-xie-zuo-ping-mian-shen-pi-liu-quan-xian-yu-she-ming-ling-yu-xiang-yong-hu-ti-wen",
+      "title": "人机协作平面：审批流、权限预设、命令与向用户提问",
+      "file": "21-ren-ji-xie-zuo-ping-mian-shen-pi-liu-quan-xian-yu-she-ming-ling-yu-xiang-yong-hu-ti-wen.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-hou-tai-ren-wu-yu-bian-pai-jobs-yun-xing-shi-ding-shi-diao-du-gong-zuo-liu-yin-qing-yu-mu-biao-zhui-zong",
+      "title": "后台任务与编排：jobs 运行时、定时调度、工作流引擎与目标追踪",
+      "file": "22-hou-tai-ren-wu-yu-bian-pai-jobs-yun-xing-shi-ding-shi-diao-du-gong-zuo-liu-yin-qing-yu-mu-biao-zhui-zong.md",
+      "section": "深入解析",
+      "group": "能力子系统能力族",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-web-ying-yong-shuang-ban-ce-jia-gou-su-zhu-ce-wang-guan-fu-wu-qi-yu-liu-lan-qi-ce-ke-hu-duan-yun-xing-shi",
+      "title": "Web 应用双半侧架构：宿主侧网关服务器与浏览器侧客户端运行时",
+      "file": "23-web-ying-yong-shuang-ban-ce-jia-gou-su-zhu-ce-wang-guan-fu-wu-qi-yu-liu-lan-qi-ce-ke-hu-duan-yun-xing-shi.md",
+      "section": "深入解析",
+      "group": "Web 图形界面",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-ke-hu-duan-ui-cha-jian-cao-wei-ji-zhi-zhu-ti-yu-yang-shi-ding-zhi",
+      "title": "客户端 UI 插件、槽位机制、主题与样式定制",
+      "file": "24-ke-hu-duan-ui-cha-jian-cao-wei-ji-zhi-zhu-ti-yu-yang-shi-ding-zhi.md",
+      "section": "深入解析",
+      "group": "Web 图形界面",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-typescript-jin-cheng-wai-sdk-json-rpc-xie-yi-ke-hu-duan-yu-fu-wu-duan-cha-jian",
+      "title": "TypeScript 进程外 SDK：JSON-RPC 协议、客户端与服务端插件",
+      "file": "25-typescript-jin-cheng-wai-sdk-json-rpc-xie-yi-ke-hu-duan-yu-fu-wu-duan-cha-jian.md",
+      "section": "深入解析",
+      "group": "对外集成与生态",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-python-sdk-zi-jin-cheng-qu-dong-fang-shi-yu-nei-zhi-yun-xing-shi-er-jin-zhi-fen-fa",
+      "title": "Python SDK：子进程驱动方式与内置运行时二进制分发",
+      "file": "26-python-sdk-zi-jin-cheng-qu-dong-fang-shi-yu-nei-zhi-yun-xing-shi-er-jin-zhi-fen-fa.md",
+      "section": "深入解析",
+      "group": "对外集成与生态",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "27-shi-li-zu-he-bao-dao-lan-acp-agent-headless-agent-jsonrpc-agent-yu-mcp-memory",
+      "title": "示例组合包导览：acp-agent、headless-agent、jsonrpc-agent 与 mcp-memory",
+      "file": "27-shi-li-zu-he-bao-dao-lan-acp-agent-headless-agent-jsonrpc-agent-yu-mcp-memory.md",
+      "section": "深入解析",
+      "group": "对外集成与生态",
+      "level": "Beginner"
+    },
+    {
+      "slug": "28-ce-shi-ti-xi-testkit-llm-hui-fang-mo-ni-kuai-zhao-yu-duan-dao-duan-fu-gai-men-jin",
+      "title": "测试体系：testkit、LLM 回放/模拟、快照与端到端覆盖门禁",
+      "file": "28-ce-shi-ti-xi-testkit-llm-hui-fang-mo-ni-kuai-zhao-yu-duan-dao-duan-fu-gai-men-jin.md",
+      "section": "深入解析",
+      "group": "质量保障与工程化",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "29-gou-jian-yu-fa-bu-gong-cheng-host-client-shuang-ju-he-typert-lei-xing-fan-she-yu-ge-jie-duan-chan-wu",
+      "title": "构建与发布工程：Host/Client 双聚合、Typert 类型反射与各阶段产物",
+      "file": "29-gou-jian-yu-fa-bu-gong-cheng-host-client-shuang-ju-he-typert-lei-xing-fan-she-yu-ge-jie-duan-chan-wu.md",
+      "section": "深入解析",
+      "group": "质量保障与工程化",
+      "level": "Advanced"
+    },
+    {
+      "slug": "30-wen-dang-yu-guo-ji-hua-shuang-yu-yue-ding-fan-yi-pei-dui-gong-zuo-liu-yu-wen-dang-yu-suan-men-jin",
+      "title": "文档与国际化：双语约定、翻译配对工作流与文档预算门禁",
+      "file": "30-wen-dang-yu-guo-ji-hua-shuang-yu-yue-ding-fan-yi-pei-dui-gong-zuo-liu-yu-wen-dang-yu-suan-men-jin.md",
+      "section": "深入解析",
+      "group": "质量保障与工程化",
+      "level": "Intermediate"
+    }
+  ]
+}
