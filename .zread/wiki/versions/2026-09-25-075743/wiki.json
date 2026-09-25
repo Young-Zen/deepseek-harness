@@ -1,0 +1,251 @@
+{
+  "id": "2026-09-25-075743",
+  "generated_at": "2026-09-24T23:57:43.1543639Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu-qie-jie-cha-jian-de-zhi-neng-ti-kuang-jia-deepseek-harness-shi-shi-yao-jie-jue-shi-yao-wen-ti",
+      "title": "项目概述：一切皆插件的智能体框架（DeepSeek Harness 是什么、解决什么问题）",
+      "file": "1-xiang-mu-gai-shu-qie-jie-cha-jian-de-zhi-neng-ti-kuang-jia-deepseek-harness-shi-shi-yao-jie-jue-shi-yao-wen-ti.md",
+      "section": "入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-kai-shi-npx-yun-xing-cong-yuan-ma-gou-jian-dao-qi-dong-web-ui",
+      "title": "快速开始：npx 运行、从源码构建到启动 Web UI",
+      "file": "2-kuai-su-kai-shi-npx-yun-xing-cong-yuan-ma-gou-jian-dao-qi-dong-web-ui.md",
+      "section": "入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-kai-fa-huan-jing-da-jian-node-pnpm-qian-zhi-tiao-jian-windows-yu-wsl2-lefthook-gou-zi-yu-shou-ci-lei-xing-jian-cha",
+      "title": "开发环境搭建：Node/pnpm 前置条件、Windows 与 WSL2、Lefthook 钩子与首次类型检查",
+      "file": "3-kai-fa-huan-jing-da-jian-node-pnpm-qian-zhi-tiao-jian-windows-yu-wsl2-lefthook-gou-zi-yu-shou-ci-lei-xing-jian-cha.md",
+      "section": "入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-cang-ku-bu-ju-dao-lan-packages-neng-li-fen-zu-apps-ying-yong-docs-wen-dang-yu-scripts-xiao-yan-jiao-ben",
+      "title": "仓库布局导览：packages 能力分组、apps 应用、docs 文档与 scripts 校验脚本",
+      "file": "4-cang-ku-bu-ju-dao-lan-packages-neng-li-fen-zu-apps-ying-yong-docs-wen-dang-yu-scripts-xiao-yan-jiao-ben.md",
+      "section": "入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-cordis-ru-men-cha-jian-shang-xia-wen-fu-wu-zhu-ru-lei-xing-hua-shi-jian-yu-ke-ni-fu-zuo-yong",
+      "title": "Cordis 入门：插件、上下文、服务注入、类型化事件与可逆副作用",
+      "file": "5-cordis-ru-men-cha-jian-shang-xia-wen-fu-wu-zhu-ru-lei-xing-hua-shi-jian-yu-ke-ni-fu-zuo-yong.md",
+      "section": "深入",
+      "group": "Cordis 插件框架",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-cordis-fen-fa-mo-shi-yu-pu-bu-yu-yi-emit-waterfall-parallel-serial-bail-de-xie-zuo-shi-zhong-jian-jian",
+      "title": "Cordis 分发模式与瀑布语义：emit/waterfall/parallel/serial/bail 的协作式中间件",
+      "file": "6-cordis-fen-fa-mo-shi-yu-pu-bu-yu-yi-emit-waterfall-parallel-serial-bail-de-xie-zuo-shi-zhong-jian-jian.md",
+      "section": "深入",
+      "group": "Cordis 插件框架",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-cordis-shi-zhan-jiao-cheng-qi-jiang-cong-di-ge-cha-jian-dao-sheng-ming-zhou-qi-fu-wu-shi-jian-pei-zhi-yu-hmr",
+      "title": "Cordis 实战教程（七讲）：从第一个插件到生命周期、服务、事件、配置与 HMR",
+      "file": "7-cordis-shi-zhan-jiao-cheng-qi-jiang-cong-di-ge-cha-jian-dao-sheng-ming-zhou-qi-fu-wu-shi-jian-pei-zhi-yu-hmr.md",
+      "section": "深入",
+      "group": "Cordis 插件框架",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-cordis-api-can-kao-context-service-fiber-event-yu-registry-de-kuang-jia-ji-xi-jie",
+      "title": "Cordis API 参考：Context、Service、Fiber、Event 与 Registry 的框架级细节",
+      "file": "8-cordis-api-can-kao-context-service-fiber-event-yu-registry-de-kuang-jia-ji-xi-jie.md",
+      "section": "深入",
+      "group": "Cordis 插件框架",
+      "level": "Advanced"
+    },
+    {
+      "slug": "9-zong-ti-jia-gou-cha-jian-shu-he-xin-bao-zhi-ze-yu-ctx-fu-wu-jian-wei-tu",
+      "title": "总体架构：插件树、核心包职责与 ctx 服务键位图",
+      "file": "9-zong-ti-jia-gou-cha-jian-shu-he-xin-bao-zhi-ze-yu-ctx-fu-wu-jian-wei-tu.md",
+      "section": "深入",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "10-profile-yu-zu-he-bao-dsh-base-patch-die-jia-shun-xu-yu-yun-xing-shi-zu-zhuang-ji-zhi",
+      "title": "Profile 与组合包：dsh-base、patch 叠加顺序与运行时组装机制",
+      "file": "10-profile-yu-zu-he-bao-dsh-base-patch-die-jia-shun-xu-yu-yun-xing-shi-zu-zhuang-ji-zhi.md",
+      "section": "深入",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "11-agent-loop-yu-lun-ci-sheng-ming-zhou-qi-turn-start-dao-turn-end-de-bu-zou-liu-yu-shi-jian-shi-xu",
+      "title": "Agent Loop 与轮次生命周期：turn/start 到 turn/end 的步骤流与事件时序",
+      "file": "11-agent-loop-yu-lun-ci-sheng-ming-zhou-qi-turn-start-dao-turn-end-de-bu-zou-liu-yu-shi-jian-shi-xu.md",
+      "section": "深入",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-shi-jian-yu-yu-kuo-zhan-dian-hui-hua-shi-jian-agent-shi-shi-shi-jian-yu-neng-li-shi-jian-de-xuan-ze-yuan-ze",
+      "title": "事件域与扩展点：会话事件、agent/* 实时事件与能力事件的选择原则",
+      "file": "12-shi-jian-yu-yu-kuo-zhan-dian-hui-hua-shi-jian-agent-shi-shi-shi-jian-yu-neng-li-shi-jian-de-xuan-ze-yuan-ze.md",
+      "section": "深入",
+      "group": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "13-neng-li-seams-yu-he-xin-fu-wu-quan-jing-ke-ti-huan-fu-wu-de-ti-gong-fang-yu-xiao-fei-fang-guan-xi-tu",
+      "title": "能力 Seams 与核心服务全景：可替换服务的提供方与消费方关系图",
+      "file": "13-neng-li-seams-yu-he-xin-fu-wu-quan-jing-ke-ti-huan-fu-wu-de-ti-gong-fang-yu-xiao-fei-fang-guan-xi-tu.md",
+      "section": "深入",
+      "group": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-host-client-shuang-ju-he-yu-typert-yuan-cheng-diao-yong-tsconfig-chai-fen-remote-sheng-ming-yu-rpc-wang-guan",
+      "title": "Host/Client 双聚合与 Typert 远程调用：tsconfig 拆分、Remote 声明与 RPC 网关",
+      "file": "14-host-client-shuang-ju-he-yu-typert-yuan-cheng-diao-yong-tsconfig-chai-fen-remote-sheng-ming-yu-rpc-wang-guan.md",
+      "section": "深入",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-hui-hua-mo-xing-yu-chi-jiu-hua-sessionevent-ri-zhi-jsonl-ti-gong-fang-yu-ge-shi-ban-ben-yan-jin",
+      "title": "会话模型与持久化：SessionEvent 日志、JSONL 提供方与格式版本演进",
+      "file": "15-hui-hua-mo-xing-yu-chi-jiu-hua-sessionevent-ri-zhi-jsonl-ti-gong-fang-yu-ge-shi-ban-ben-yan-jin.md",
+      "section": "深入",
+      "group": "子系统参考",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-gong-ju-xi-tong-yu-zhi-xing-liu-shui-xian-tooldefinition-schema-dsl-yu-pre-execute-post-ba-guan-shi-jian",
+      "title": "工具系统与执行流水线：ToolDefinition、schema DSL 与 pre/execute/post 把关事件",
+      "file": "16-gong-ju-xi-tong-yu-zhi-xing-liu-shui-xian-tooldefinition-schema-dsl-yu-pre-execute-post-ba-guan-shi-jian.md",
+      "section": "深入",
+      "group": "子系统参考",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-llm-gua-pei-yu-liu-shi-xie-yi-message-contentblock-streamchunk-yu-gua-pei-qi-yue-ding",
+      "title": "LLM 适配与流式协议：Message/ContentBlock、StreamChunk 与适配器约定",
+      "file": "17-llm-gua-pei-yu-liu-shi-xie-yi-message-contentblock-streamchunk-yu-gua-pei-qi-yue-ding.md",
+      "section": "深入",
+      "group": "子系统参考",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-sha-xiang-yu-an-quan-bian-jie-ce-lue-jie-xi-bwrap-landlock-seatbelt-hou-duan-yu-shen-pi-seam",
+      "title": "沙箱与安全边界：策略解析、bwrap/Landlock/Seatbelt 后端与审批 seam",
+      "file": "18-sha-xiang-yu-an-quan-bian-jie-ce-lue-jie-xi-bwrap-landlock-seatbelt-hou-duan-yu-shen-pi-seam.md",
+      "section": "深入",
+      "group": "子系统参考",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-zi-dai-li-yu-duo-zhi-neng-ti-xie-zuo-subagent-ti-gong-fang-fork-in-process-yu-agent-teams",
+      "title": "子代理与多智能体协作：subagent 提供方、fork-in-process 与 Agent Teams",
+      "file": "19-zi-dai-li-yu-duo-zhi-neng-ti-xie-zuo-subagent-ti-gong-fang-fork-in-process-yu-agent-teams.md",
+      "section": "深入",
+      "group": "子系统参考",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-web-ying-yong-yu-liu-lan-qi-ke-hu-duan-lian-jie-chuan-shu-ui-cha-jian-mo-kuai-yu-chan-pin-ge-chi",
+      "title": "Web 应用与浏览器客户端：连接传输、UI 插件模块与产品隔离",
+      "file": "20-web-ying-yong-yu-liu-lan-qi-ke-hu-duan-lian-jie-chuan-shu-ui-cha-jian-mo-kuai-yu-chan-pin-ge-chi.md",
+      "section": "深入",
+      "group": "应用形态与分发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-electron-zhuo-mian-ying-yong-qian-ming-yun-xing-shi-desktop-host-yu-nei-zhi-profile",
+      "title": "Electron 桌面应用：签名运行时、Desktop Host 与内置 profile",
+      "file": "21-electron-zhuo-mian-ying-yong-qian-ming-yun-xing-shi-desktop-host-yu-nei-zhi-profile.md",
+      "section": "深入",
+      "group": "应用形态与分发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-cli-yu-headless-acp-profile-qi-dong-ming-ling-xing-can-shu-yu-agent-client-protocol",
+      "title": "CLI 与 Headless/ACP：profile 启动、命令行参数与 Agent Client Protocol",
+      "file": "22-cli-yu-headless-acp-profile-qi-dong-ming-ling-xing-can-shu-yu-agent-client-protocol.md",
+      "section": "深入",
+      "group": "应用形态与分发",
+      "level": "Beginner"
+    },
+    {
+      "slug": "23-python-sdk-json-rpc-ke-hu-duan-nei-zhi-yun-xing-shi-yu-lun-ci-api",
+      "title": "Python SDK：JSON-RPC 客户端、内置运行时与轮次 API",
+      "file": "23-python-sdk-json-rpc-ke-hu-duan-nei-zhi-yun-xing-shi-yu-lun-ci-api.md",
+      "section": "深入",
+      "group": "应用形态与分发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-kuo-zhan-shou-ce-tian-jia-gong-ju-bao-llm-gua-pei-qi-remote-api-yu-she-zhi-qia-pian",
+      "title": "扩展手册：添加工具、包、LLM 适配器、Remote API 与设置卡片",
+      "file": "24-kuo-zhan-shou-ce-tian-jia-gong-ju-bao-llm-gua-pei-qi-remote-api-yu-she-zhi-qia-pian.md",
+      "section": "深入",
+      "group": "扩展开发",
+      "level": "Advanced"
+    },
+    {
+      "slug": "25-cha-jian-kai-fa-shi-zhan-fu-wu-ding-yi-shi-jian-jian-ting-yu-dong-tai-cordis-pei-zhi",
+      "title": "插件开发实战：服务定义、事件监听与动态 Cordis 配置",
+      "file": "25-cha-jian-kai-fa-shi-zhan-fu-wu-ding-yi-shi-jian-jian-ting-yu-dong-tai-cordis-pei-zhi.md",
+      "section": "深入",
+      "group": "扩展开发",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-ce-shi-ce-lue-dan-yuan-ce-shi-100-fu-gai-lu-men-jin-yu-zhen-shi-api-e2e",
+      "title": "测试策略：单元测试、100% 覆盖率门禁与真实 API e2e",
+      "file": "26-ce-shi-ce-lue-dan-yuan-ce-shi-100-fu-gai-lu-men-jin-yu-zhen-shi-api-e2e.md",
+      "section": "深入",
+      "group": "测试与工程质量",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "27-kuai-zhao-ce-shi-yu-lu-zhi-hui-hua-session-sdk-acp-web-kuai-zhao-de-zu-zhi-yu-hui-fang",
+      "title": "快照测试与录制会话：session/sdk/acp/web 快照的组织与回放",
+      "file": "27-kuai-zhao-ce-shi-yu-lu-zhi-hui-hua-session-sdk-acp-web-kuai-zhao-de-zu-zhi-yu-hui-fang.md",
+      "section": "深入",
+      "group": "测试与工程质量",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "28-xing-neng-ji-zhun-ce-shi-benchmarks-bu-ju-worker-ji-shi-yu-hui-gui-yu-suan",
+      "title": "性能基准测试：benchmarks 布局、worker 计时与回归预算",
+      "file": "28-xing-neng-ji-zhun-ce-shi-benchmarks-bu-ju-worker-ji-shi-yu-hui-gui-yu-suan.md",
+      "section": "深入",
+      "group": "测试与工程质量",
+      "level": "Advanced"
+    },
+    {
+      "slug": "29-gong-xian-zhi-nan-yu-ci-gong-zuo-liu-pr-gui-fan-men-jin-zu-zhi-yu-fa-ban-liu-cheng",
+      "title": "贡献指南与 CI 工作流：PR 规范、门禁组织与发版流程",
+      "file": "29-gong-xian-zhi-nan-yu-ci-gong-zuo-liu-pr-gui-fan-men-jin-zu-zhi-yu-fa-ban-liu-cheng.md",
+      "section": "深入",
+      "group": "贡献与协作",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "30-wen-dang-biao-zhun-yu-guo-ji-hua-wen-dang-yu-suan-shuang-yu-pei-dui-yu-fan-yi-gui-ze",
+      "title": "文档标准与国际化：文档预算、双语配对与翻译规则",
+      "file": "30-wen-dang-biao-zhun-yu-guo-ji-hua-wen-dang-yu-suan-shuang-yu-pei-dui-yu-fan-yi-gui-ze.md",
+      "section": "深入",
+      "group": "贡献与协作",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "31-an-quan-shuo-ming-yu-yun-xing-bian-jie-mo-xing-quan-xian-gong-ju-shen-pi-yu-an-quan-xu-zhi",
+      "title": "安全说明与运行边界：模型权限、工具审批与安全须知",
+      "file": "31-an-quan-shuo-ming-yu-yun-xing-bian-jie-mo-xing-quan-xian-gong-ju-shen-pi-yu-an-quan-xu-zhi.md",
+      "section": "深入",
+      "group": "贡献与协作",
+      "level": "Beginner"
+    }
+  ]
+}
